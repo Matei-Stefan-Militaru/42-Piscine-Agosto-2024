@@ -9,6 +9,3 @@
 | 06     | [ft_is_prime.c](ex06/ft_is_prime.c)   | ✅       |
 | 07     | [ft_find_next_prime.c](ex07/ft_find_next_prime.c)    | ✅       |
 | 08     | [ft_ten_queens_puzzle.c]()   | ☐       |
-
-
-❌    🚧
