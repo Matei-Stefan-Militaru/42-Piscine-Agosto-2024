@@ -28,9 +28,9 @@ Rush
 
 | Number     | Name    | Status  |
 |--------|-------------|---------|
-| 01     | [Rush01](Rush/Rush01)  | ✅       |
+| 00     | [Rush00](Rush/Rush00)  | ✅       |
+| 01     | [Rush01]()  |  ☐      |
 | 02     | [Rush02]()  |  ☐      |
-| 03     | [Rush03]()  |  ☐      |
 
 BSQ
 
