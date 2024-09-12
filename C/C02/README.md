@@ -1,7 +1,7 @@
 | Number | Function    | Status  |
 |--------|-------------|---------|
 | 00     | [ft_strcpy.c](ex00/ft_strcpy.c)  | ✅       |
-| 01     | [ft_strncpy.c](ex01/ft_strncpy.c  | ✅       |
+| 01     | [ft_strncpy.c](ex01/ft_strncpy.c)  | ✅       |
 | 02     | [ft_str_is_alpha.c](ex02/ft_str_is_alpha.c)  | ✅       |
 | 03     | [ft_str_is_numeric.c](ex03/ft_str_is_numeric.c)  | ✅       |
 | 04     | [ft_str_is_lowercase.c](ex04/ft_str_is_lowercase.c)  | ✅       |
