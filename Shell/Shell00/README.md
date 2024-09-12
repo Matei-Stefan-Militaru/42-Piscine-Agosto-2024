@@ -1,6 +1,6 @@
 | Number | Function    | Status  |
 |--------|-------------|---------|
-| 00     | [z](ex00/z.md)  | ✅       |
+| 00     | [z](ex00/z)  | ✅       |
 | 01     | [testShell00.tar](ex01/testShell00.tar.md)  | ✅       |
 | 02     | [exo2.tar](ex02/exo2.tar.md)  | ✅       |
 | 03     | [id_rsa_pub](ex03/id_rsa_pub.md)  | ✅       |
